@@ -1,1 +1,236 @@
-# awesome-bluetooth-security
+# Awesome Bluetooth Security (BR, EDR, LE, and Mesh)
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.  
+
+Submit a PR if something is missing!
+
+### To Do
+
+- Add list of useful research papers and whitepapers
+- Add list of useful articles
+- Add list of useful books
+
+------
+
+## Contents
+
+- [Notable Vulnerabilities](#notable_vulnerabilities)
+- [Conference Talks](#conference_talks)
+- [Bluetooth Security Tools](#bluetooth_security_tools)
+- [Primary Reference Materials](#primary_references)
+- [Useful Sites](#useful_sites)
+
+------
+
+## <a name="notable_vulnerabilities"></a>Notable Vulnerabilities
+
+| Vulnerability name | Conference & Year published | Vulnerability website URL | Paper URL | Video URL | SIG Notice | Technology Impacted | Related CVE |
+| :---- | :---------- | :-------------------------------: | -----------: | ------: | ------: | ------: | -----------: |
+| BlueBorne | Black Hat Europe 2017 | [Site](https://www.armis.com/blueborne/) | [Paper](https://info.armis.com/rs/645-PDC-047/images/BlueBorne%20Technical%20White%20Paper_20171130.pdf) | [Video](https://www.youtube.com/watch?v=LLNtZKpL0P8) | No Notice | BR/EDR | CVE-2017-8628, CVE-2017-0781, CVE-2017-0782, CVE-2017-0783, CVE-2017-0785, CVE-2017-14315, CVE-2017-1000250, CVE-2017-1000251, CVE-2017-14315, CVE-2017-1000410 |
+| Bleedingbit | 2018 | [Site](https://www.armis.com/bleedingbit/) | [Paper](https://info.armis.com/rs/645-PDC-047/images/Armis-BLEEDINGBIT-Technical-White-Paper-WP.pdf) | [Video](https://www.youtube.com/watch?v=pZpAUapKvGY) | No Notice | LE | CVE-2018-7080, CVE-2018-16986 |
+| Fixed Coordinate Invalid Curve Attack | 2018 | [Site](https://www.cs.technion.ac.il/~biham/BT/) | [Paper](https://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf) | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/bluetooth-sig-security-update/) | BR/EDR/LE | CVE-2018-5383 |
+| SweynTooth | 2019 | [Site](https://asset-group.github.io/disclosures/sweyntooth/) | [Paper](https://asset-group.github.io/disclosures/sweyntooth/sweyntooth.pdf) | [Video](https://www.youtube.com/watch?v=Iw8sIBLWE_w) | No Notice | LE | CVE-2019-16336, CVE-2019-17060, CVE-2019-17061, CVE-2019-17517, CVE-2019-17518, CVE-2019-17519, CVE-2019-17520, CVE-2019-19192, CVE-2019-19193, CVE-2019-19194, CVE-2019-19195, CVE-2019-19196, CVE-2020-10061, CVE-2020-10069, CVE-2020-13593, CVE-2020-13594, CVE-2020-13595 |
+| KNOB | USENIX 2019 | [Site](https://knobattack.com/)   | [Paper](https://www.usenix.org/system/files/sec19-antonioli.pdf) | [Video](https://www.youtube.com/watch?v=v9Xg9XcnNh0) | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/reporting-security/statement-key-negotiation-of-bluetooth/) | BR/EDR  |  CVE-2019-9506 |
+| BIAS | IEEE S&P 2020 | [Site](https://francozappa.github.io/about-bias/) | [Paper](https://francozappa.github.io/about-bias/publication/antonioli-20-bias/antonioli-20-bias.pdf) | [Video](https://www.youtube.com/watch?v=fASGU7Og5_4) | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/bias-vulnerability/) | BR/EDR | CVE-2020-10135 |
+| Pairing Method Confusion | 2020 | No Site | No Paper | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/method-vulnerability/) | BR/EDR/LE | CVE-2020-10134 |
+| BlueFrag | 2020 | [Article](https://insinuator.net/2020/04/cve-2020-0022-an-android-8-0-9-0-bluetooth-zero-click-rce-bluefrag/) | No Paper | No Video | No Notice | Android | CVE-2020-0022 |
+| Spectra | Black Hat USA 2020 | [Abstract](https://www.blackhat.com/us-20/briefings/schedule/index.html#spectra-breaking-separation-between-wireless-chips-20005) | ? | ? | ? | ? | ? |
+
+------
+
+## <a name="conference_talks"></a>Conference Talks
+
+### 2003
+
+- DEF CON 11 - Bruce Potter - Bluetooth - The Future of Wardriving [Video](https://www.youtube.com/watch?v=T-8m0jBdLF0)
+
+### 2005
+
+- 22C3 - Marcel Holtmann, Martin Herfurt, Adam Laurie: Bluetooth Hacking - The State of The Art [Video](https://www.youtube.com/watch?v=ynjZOIu_HqQ)
+
+### 2006
+
+- 23C3 - Thierry Zoller, Kevin Finistere: Bluetooth Hacking Revisited [Video](https://www.youtube.com/watch?v=DLMsLIZp5ww)
+
+### 2007
+
+- DeepSec 2007 - Marcel Holtmann: New Security Model of Bluetooth 2.1 [Video](https://www.youtube.com/watch?v=jXtDhQTqhKg)
+
+### 2009
+
+- DEF CON 17 - Dominic Spill, Michael Ossmann, and Mark Steward - Bluetooth Smells like Chicken [Video](https://www.youtube.com/watch?v=Ru8RshSVkGI)  
+- Shmoocon 2009 - Bluetooth-Ossman.m4v [Video](https://www.youtube.com/watch?v=KPp4TjJVJb8)  
+
+### 2010
+
+- Shmoocon 2010 - Michael Ossmann - Bluetooth Keyboards: Who Owns Your Keystrokes? [Video](https://www.youtube.com/watch?v=X0RUN6SB6c8)  
+- DEF CON 18: Breaking Bluetooth by Being Bored 1/3 [Video](https://www.youtube.com/watch?v=Ibia1Bn2Er8)  
+
+### 2011
+
+- ShmooCon 2011: Project Ubertooth: Building a Better Bluetooth Adapter [Video](https://www.youtube.com/watch?v=KSd_1FE6z4Y)  
+- DeepSec 2011 - Tommi Makila & Jukka Taimisto: Intelligent Bluetooth Fuzzing - Why bother? [Video](https://www.youtube.com/watch?v=Rvzrr_jfH64)
+
+### 2012
+
+- Ruxcon 2012: Bluetooth Packet Sniffing Using Project Ubertooth - Dominic Spill [Video](https://www.youtube.com/watch?v=HU5qi7wimAM)
+- Toorcon 2012 - Hacking Bluetooth Low Energy: I Am Jack's Heart Monitor [Video](https://www.youtube.com/watch?v=4POOiVrdnX8)
+- DEF CON 20: Passive Bluetooth Monitoring in Scapy [Video](https://www.youtube.com/watch?v=FruyviVhvR8)
+
+### 2013
+
+- USENIX WOOT 2013 - Mike Ryan - Bluetooth: With Low Energy Comes Low Security [Video](https://www.youtube.com/watch?v=Mo-FsEmaqpo)  
+- ShmooCon 9 - How Smart Is Bluetooth Smart? [Video](https://www.youtube.com/watch?v=0FfvLxW_cZg)  
+- Blackhat USA 2013 - Bluetooth Smart: The Good, the Bad, the Ugly, and the Fix! [Video](https://www.youtube.com/watch?v=SoH11fi-FcA)  
+- DeepSec 2013 - Veronica Valeros & Sebastian Garcia: Uncovering your Trails - Privacy Issues of Bluetooth Devices [Video](https://www.youtube.com/watch?v=j3fWjpxZFQE)
+
+### 2014
+
+- CanSecWest 2014: Outsmarting Bluetooth Smart [Video](https://www.youtube.com/watch?v=dYj6bpDzID0)  
+- DEF CON 22 - The NSA Playset Bluetooth Smart Attack Tools [Video](https://www.youtube.com/watch?v=_Z4gYyrKVFM)  
+- DEF CON 22 - Grant Bugher - Detecting Bluetooth Surveillance Systems [Video](https://www.youtube.com/watch?v=85uwy0ACJJw)  
+
+### 2015
+
+- DEF CON 23 - Mike Ryan and Richo Healey - Hacking Electric Skateboards [Video](https://www.youtube.com/watch?v=JZ3EB68v_B0)  
+
+### 2016
+
+- DEF CON 24 - Anthony Rose, Ben Ramsey - Picking Bluetooth Low Energy Locks a Quarter Mille Away [Video](https://www.youtube.com/watch?v=KrOReHwjCKI)  
+- DEF CON 24 - Realtime Bluetooth Device Detection with Blue Hydra [Video](https://www.youtube.com/watch?v=p5AnZHY7g1M)  
+- DEF CON 24 Internet of Things Village Damien Cauquil Btlejuice The Bluetooth Smart Mitm Framework [Video](https://www.youtube.com/watch?v=lcn07TclnS0)  
+- Blackhat USA 2016 - Gattacking Bluetooth Smart Devices - Introducing a New BLE Proxy Tool [Video](https://www.youtube.com/watch?v=uKqdb4lF0XU)  
+- Hack.lu 2016 BtleJuice: the Bluetooth Smart Man In The Middle Framework by Damiel Cauquil [Video](https://www.youtube.com/watch?v=G08fh5Sa7TU)  
+- EMF16 - Michael Ossmann: My Ubertooth Year [Video](https://www.youtube.com/watch?v=8lGCKO13zuo)  
+
+### 2018
+
+- DEF CON 26 - Damien virtualabs Cauquil - You had better secure your BLE devices [Video](https://www.youtube.com/watch?v=VHJfd9h6G2s)  
+- 35C3 - Dissecting Broadcom Bluetooth [Video](https://www.youtube.com/watch?v=4_nI9ok7iQg)  
+
+### 2019
+
+- DEF CON 27 - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG for Fun and Jamming [Video](https://www.youtube.com/watch?v=wkIdpK7mAk4)  
+- USENIX Security '19 - A Study of the Feasibility of Co-located App Attacks against BLE [Video](https://www.youtube.com/watch?v=C1TNuxSCz9Y)  
+- RSA 2019 - Bluetooth Reverse Engineering: Tools and Techniques [Video](https://www.youtube.com/watch?v=gCQ3iSy6R-U)  
+- Bluetooth Hacking: Tools And Techniques | Mike Ryan | hardwear.io USA 2019 [Video](https://www.youtube.com/watch?v=8kXbu2Htteg)  
+- Sniffle: A low-cost sniffer for Bluetooth 5 | Sultan Qasim Khan | hardwear.io Netherlands 2019 [Video](https://www.youtube.com/watch?v=nClZzdvGlKg)  
+- BruCON 0x0B - Defeating Bluetooth Low Energy 5 PRNG for fun and jamming - Damien Cauquil [Video](https://www.youtube.com/watch?v=rtaSCqngvqU)  
+- Hack.LU 2019: Defeating Bluetooth Low Energy 5 PRNG For Fun And Jamming - Damien Cauquil [Video](https://www.youtube.com/watch?v=4TaimqlQCew)  
+
+### 2020
+
+- From Bluetooth Standard to Standard Compliant 0-days | Daniele Antonioli | Hardwear.io Virtual Con [Video](https://www.youtube.com/watch?v=ZVSbF11uxuk)  
+
+------
+
+## <a name="bluetooth_security_tools"></a>Bluetooth Security Tools
+
+### Linux Utilities & Tools
+
+- BlueZ (l2ping, gatttool, hciconfig, hcidump, hcitool, sdptool, bccmd, bluetoothctl, etc.) [Link](http://www.bluez.org/)
+
+### Scanners & Sniffers
+
+- Sniffle [Github](https://github.com/nccgroup/sniffle)
+- Bettercap [Github](https://github.com/bettercap/bettercap)
+- sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi)
+- bluelog [Github](https://github.com/MS3FGX/Bluelog)
+- Blue Hydra [Github](https://github.com/pwnieexpress/blue_hydra)
+- btlesniffer [Github](https://github.com/scipag/btle-sniffer)
+- btscanner [Link](https://manpages.ubuntu.com/manpages/bionic/man1/btscanner.1.html)
+- BT Audit [Link](https://trifinite.org/trifinite_stuff_btaudit.html)
+- redfang [Gitlab](https://gitlab.com/kalilinux/packages/redfang)
+- bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah)
+
+### Exploit Tools
+
+- Btlejack [Github](https://github.com/virtualabs/btlejack)
+- crackle [Github](https://github.com/mikeryan/crackle)
+- btcrack [Github](https://github.com/mikeryan/btcrack)
+- BLE-Replay [Github](https://github.com/nccgroup/BLE-Replay)
+- BLESuite-CLI [Github](https://github.com/nccgroup/BLESuite-CLI)
+- BlueMaho [Gitlab](https://gitlab.com/kalilinux/packages/bluemaho)
+- BlueDiving [Sourceforge](http://bluediving.sourceforge.net/)
+- Blooover [Link](https://trifinite.org/trifinite_stuff_blooover.html)
+- l2ping (BlueSmack DoS) [Link](https://trifinite.org/trifinite_stuff_bluesmack.html)
+- hidattacl [Link](https://mulliner.org/bluetooth/hidattack.php)
+
+### OBEX Attack Tools
+
+- obexstress [Download](http://bluetooth-pentest.narod.ru/software/obexstress.py)
+- bluesnarfer [Gitlab](https://gitlab.com/kalilinux/packages/bluesnarfer)
+- nOBEX [Github](https://github.com/nccgroup/nOBEX)
+
+### Fuzzing
+
+- bss (unsupported) [Github](https://github.com/hllhll/BluetoothStackSmasher)
+- Defensics (Commercial) [Link](https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html)
+
+### Firmware Analysis
+
+- InternalBlue [Github](https://github.com/seemoo-lab/internalblue)
+- Frankenstein [Github](https://github.com/seemoo-lab/frankenstein)
+- Nexmon [Github](https://github.com/seemoo-lab/nexmon/tree/bluetooth-wip)
+
+### Man-in-the-middle & Packet Injection
+
+- BtleJuice [Github](https://github.com/DigitalSecurity/btlejuice)
+- Gattacker [Github](https://github.com/securing/gattacker)
+- BTLE (for SDRs) [Github](https://github.com/JiaoXianjun/BTLE)
+- (Unsupported) Btproxy [Github](https://github.com/conorpp/btproxy)
+
+### Device Spoofing
+
+- Spooftooph [Gitlab](https://gitlab.com/kalilinux/packages/spooftooph)
+- Bluefog [Github](https://github.com/MS3FGX/Bluefog)
+
+### Ping & Signal Strength Tools
+
+- blue_sonar [Github](https://github.com/ZeroChaos-/blue_sonar)
+- BlueRanger [Gitlab](https://gitlab.com/kalilinux/packages/blueranger)
+
+### Honeypot
+
+- bluepot [Github](https://github.com/andrewmichaelsmith/bluepot/)
+
+### Android Apps
+
+- nRF Connect for Mobile [Google Play](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
+
+### Hardware
+
+- Nordic Semiconductor nRF-51 Development Kit [Link](https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF51-DK)
+- Sena UD-100 (~$39) [Link](www.senanetworks.com/ud100-g03.html)
+- Ubertooth One (~$120) [Link](https://greatscottgadgets.com/ubertoothone/)
+- Ellisys Bluetooth Tools [Link](https://www.ellisys.com/products/btcompare.php)
+- Frontline Bluetooth Tools [Link](http://www.fte.com/products/default.aspx)
+
+### Other
+
+- Wireshark: Protocol analyzer and packet capture [Link](https://www.wireshark.org/)
+- Frontline Wireless Protocol Suite (Windows only) [Link](http://www.fte.com/support/wps-download.aspx?demo=802.11&iid=1y)
+- Uberducky (BLE-triggered rubber ducky) [Github](https://github.com/mikeryan/uberducky)
+- CarWhisperer: Bluetooth sniffer for in-vehicle connections [Link](https://trifinite.org/trifinite_stuff_carwhisperer.html)
+- BLEBoy: BLE testing platform [Github](https://github.com/nccgroup/BLEBoy)
+
+------
+
+## <a name="primary_references"></a>Primary Reference Materials
+
+Bluetooth Core Specifications [Link](https://www.bluetooth.com/specifications/bluetooth-core-specification/)
+
+NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/publications/guide-bluetooth-security-1)
+
+------
+
+## <a name="useful_sites"></a>Useful Sites
+
+- List of Bluetooth bugs [Link](http://bluetooth.lol/)
+- Bluetooth arsenal tool list [Github](https://github.com/0x90/bluetooth-arsenal)
+- trifinite Bluetooth info [Link](https://trifinite.org/trifinite_stuff.html)
+- Colin Mulliner Bluetooth info [Link](https://mulliner.org/bluetooth/)
+- BlackArch Linux tool list [Link](https://blackarch.org/bluetooth.html)
+- Bluetooth pen test framework [Link](http://bluetooth-pentest.narod.ru/)
