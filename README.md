@@ -36,7 +36,7 @@ Submit a PR if something is missing!
 | BIAS | IEEE S&P 2020 | [Site](https://francozappa.github.io/about-bias/) | [Paper](https://francozappa.github.io/about-bias/publication/antonioli-20-bias/antonioli-20-bias.pdf) | [Video](https://www.youtube.com/watch?v=fASGU7Og5_4) | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/bias-vulnerability/) | BR/EDR | CVE-2020-10135 |
 | Pairing Method Confusion | 2020 | No Site | No Paper | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/method-vulnerability/) | BR/EDR/LE | CVE-2020-10134 |
 | BlueFrag | 2020 | [Article](https://insinuator.net/2020/04/cve-2020-0022-an-android-8-0-9-0-bluetooth-zero-click-rce-bluefrag/) | No Paper | No Video | No Notice | Android | CVE-2020-0022 |
-| Spectra | Black Hat USA 2020 | [Abstract](https://www.blackhat.com/us-20/briefings/schedule/index.html#spectra-breaking-separation-between-wireless-chips-20005) | ? | ? | ? | ? | ? |
+| Spectra | Black Hat USA 2020 | [Abstract](https://www.blackhat.com/us-20/briefings/schedule/index.html#spectra-breaking-separation-between-wireless-chips-20005) | TBD | [Video](https://www.youtube.com/watch?v=GZd66uVGKn8) | No Notice | WiFi+BT modules | CVE-2019-15063, CVE-2020-10367, CVE-2020-10368, CVE-2020-10369, CVE-2020-10370 |
 
 ------
 
@@ -231,6 +231,7 @@ NIST Special Publication (SP) 800-121 revision 2 [Link](https://www.nist.gov/pub
 - List of Bluetooth bugs [Link](http://bluetooth.lol/)
 - Bluetooth arsenal tool list [Github](https://github.com/0x90/bluetooth-arsenal)
 - trifinite Bluetooth info [Link](https://trifinite.org/trifinite_stuff.html)
-- Colin Mulliner Bluetooth info [Link](https://mulliner.org/bluetooth/)
+- Mike Ryan's Bluetooth info [Link](https://lacklustre.net/bluetooth/)
+- Colin Mulliner's Bluetooth info [Link](https://mulliner.org/bluetooth/)
 - BlackArch Linux tool list [Link](https://blackarch.org/bluetooth.html)
 - Bluetooth pen test framework [Link](http://bluetooth-pentest.narod.ru/)
