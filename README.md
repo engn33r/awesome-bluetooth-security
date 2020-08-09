@@ -102,27 +102,28 @@ Submit a PR if something is missing!
 - DEF CON 24 - Realtime Bluetooth Device Detection with Blue Hydra [Video](https://www.youtube.com/watch?v=p5AnZHY7g1M)  
 - DEF CON 24 Internet of Things Village Damien Cauquil Btlejuice The Bluetooth Smart Mitm Framework [Video](https://www.youtube.com/watch?v=lcn07TclnS0)  
 - Blackhat USA 2016 - Gattacking Bluetooth Smart Devices - Introducing a New BLE Proxy Tool [Video](https://www.youtube.com/watch?v=uKqdb4lF0XU)  
-- Hack.lu 2016 BtleJuice: the Bluetooth Smart Man In The Middle Framework by Damiel Cauquil [Video](https://www.youtube.com/watch?v=G08fh5Sa7TU)  
-- EMF16 - Michael Ossmann: My Ubertooth Year [Video](https://www.youtube.com/watch?v=8lGCKO13zuo)  
+- Hack.lu 2016 - Damiel Cauquil - BtleJuice: the Bluetooth Smart Man In The Middle Framework [Video](https://www.youtube.com/watch?v=G08fh5Sa7TU)  
+- EMF16 - Michael Ossmann - My Ubertooth Year [Video](https://www.youtube.com/watch?v=8lGCKO13zuo)  
 
 ### 2018
 
-- DEF CON 26 - Damien virtualabs Cauquil - You had better secure your BLE devices [Video](https://www.youtube.com/watch?v=VHJfd9h6G2s)  
-- 35C3 - Dissecting Broadcom Bluetooth [Video](https://www.youtube.com/watch?v=4_nI9ok7iQg)  
+- DEF CON 26 - Damien Cauquil - You had better secure your BLE devices [Video](https://www.youtube.com/watch?v=VHJfd9h6G2s)  
+- 35C3 - Dennis Mantz and Jiska Classen - Dissecting Broadcom Bluetooth [Video](https://www.youtube.com/watch?v=4_nI9ok7iQg)  
 
 ### 2019
 
 - DEF CON 27 - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG for Fun and Jamming [Video](https://www.youtube.com/watch?v=wkIdpK7mAk4)  
-- USENIX Security '19 - A Study of the Feasibility of Co-located App Attacks against BLE [Video](https://www.youtube.com/watch?v=C1TNuxSCz9Y)  
-- RSA 2019 - Bluetooth Reverse Engineering: Tools and Techniques [Video](https://www.youtube.com/watch?v=gCQ3iSy6R-U)  
-- Bluetooth Hacking: Tools And Techniques | Mike Ryan | hardwear.io USA 2019 [Video](https://www.youtube.com/watch?v=8kXbu2Htteg)  
-- Sniffle: A low-cost sniffer for Bluetooth 5 | Sultan Qasim Khan | hardwear.io Netherlands 2019 [Video](https://www.youtube.com/watch?v=nClZzdvGlKg)  
-- BruCON 0x0B - Defeating Bluetooth Low Energy 5 PRNG for fun and jamming - Damien Cauquil [Video](https://www.youtube.com/watch?v=rtaSCqngvqU)  
-- Hack.LU 2019: Defeating Bluetooth Low Energy 5 PRNG For Fun And Jamming - Damien Cauquil [Video](https://www.youtube.com/watch?v=4TaimqlQCew)  
+- USENIX Security '19 - Pallavi Sivakumaran - A Study of the Feasibility of Co-located App Attacks against BLE [Video](https://www.youtube.com/watch?v=C1TNuxSCz9Y)  
+- RSA 2019 - Mike Ryan - Bluetooth Reverse Engineering: Tools and Techniques [Video](https://www.youtube.com/watch?v=gCQ3iSy6R-U)  
+- Hardwear.io USA 2019 - Mike Ryan - Bluetooth Hacking: Tools And Techniques [Video](https://www.youtube.com/watch?v=8kXbu2Htteg)  
+- Hardwear.io Netherlands 2019 - Sultan Qasim Khan - Sniffle: A low-cost sniffer for Bluetooth 5 [Video](https://www.youtube.com/watch?v=nClZzdvGlKg)  
+- BruCON 0x0B - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG for fun and jamming [Video](https://www.youtube.com/watch?v=rtaSCqngvqU)  
+- Hack.LU 2019 - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG For Fun And Jamming [Video](https://www.youtube.com/watch?v=4TaimqlQCew)  
 
 ### 2020
 
-- From Bluetooth Standard to Standard Compliant 0-days | Daniele Antonioli | Hardwear.io Virtual Con [Video](https://www.youtube.com/watch?v=ZVSbF11uxuk)  
+- Hardwear.io Virtual Con 2020 - Daniele Antonioli - From Bluetooth Standard to Standard Compliant 0-days [Video](https://www.youtube.com/watch?v=ZVSbF11uxuk)  
+- DEF CON 28 - Jiska Classen and Francesco Gringoli - Spectra — New Wireless Escalation Targets  [Video](https://www.youtube.com/watch?v=GZd66uVGKn8)
 
 ------
 
