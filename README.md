@@ -109,6 +109,7 @@ Submit a PR if something is missing!
 
 - DEF CON 26 - Damien Cauquil - You had better secure your BLE devices [Video](https://www.youtube.com/watch?v=VHJfd9h6G2s)  
 - 35C3 - Dennis Mantz and Jiska Classen - Dissecting Broadcom Bluetooth [Video](https://www.youtube.com/watch?v=4_nI9ok7iQg)  
+- MRMCD2018 - Dennis Mantz and Jiska Classen - A Deep Dive into Bluetooth Controller Firmware [Video](https://www.youtube.com/watch?v=iYPPOMQOev0)
 
 ### 2019
 
@@ -117,6 +118,7 @@ Submit a PR if something is missing!
 - RSA 2019 - Mike Ryan - Bluetooth Reverse Engineering: Tools and Techniques [Video](https://www.youtube.com/watch?v=gCQ3iSy6R-U)  
 - Hardwear.io USA 2019 - Mike Ryan - Bluetooth Hacking: Tools And Techniques [Video](https://www.youtube.com/watch?v=8kXbu2Htteg)  
 - Hardwear.io Netherlands 2019 - Sultan Qasim Khan - Sniffle: A low-cost sniffer for Bluetooth 5 [Video](https://www.youtube.com/watch?v=nClZzdvGlKg)  
+- MRMCD2019 - Dennis Mantz and Jiska Classen - Playing with Bluetooth [Video](https://www.youtube.com/watch?v=uwkR8bcni38)
 - BruCON 0x0B - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG for fun and jamming [Video](https://www.youtube.com/watch?v=rtaSCqngvqU)  
 - Hack.LU 2019 - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG For Fun And Jamming [Video](https://www.youtube.com/watch?v=4TaimqlQCew)  
 
