@@ -128,6 +128,7 @@ Submit a PR if something is missing!
 
 - Hardwear.io Virtual Con 2020 - Daniele Antonioli - From Bluetooth Standard to Standard Compliant 0-days [Video](https://www.youtube.com/watch?v=ZVSbF11uxuk)  
 - DEF CON 28 - Jiska Classen and Francesco Gringoli - Spectra — New Wireless Escalation Targets  [Video](https://www.youtube.com/watch?v=GZd66uVGKn8)
+- USENIX WOOT 2020 - Jianliang Wu - BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8)
 
 ------
 
