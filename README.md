@@ -101,7 +101,7 @@ Submit a PR if something is missing!
 
 ### 2016
 
-- DEF CON 24 - Anthony Rose, Ben Ramsey - Picking Bluetooth Low Energy Locks a Quarter Mille Away [Video](https://www.youtube.com/watch?v=KrOReHwjCKI)  
+- DEF CON 24 - Anthony Rose, Ben Ramsey - Picking Bluetooth Low Energy Locks a Quarter Mile Away [Video](https://www.youtube.com/watch?v=KrOReHwjCKI)  
 - DEF CON 24 - Realtime Bluetooth Device Detection with Blue Hydra [Video](https://www.youtube.com/watch?v=p5AnZHY7g1M)  
 - DEF CON 24 Internet of Things Village Damien Cauquil Btlejuice The Bluetooth Smart Mitm Framework [Video](https://www.youtube.com/watch?v=lcn07TclnS0)  
 - Blackhat USA 2016 - Gattacking Bluetooth Smart Devices - Introducing a New BLE Proxy Tool [Video](https://www.youtube.com/watch?v=uKqdb4lF0XU)  
@@ -124,12 +124,15 @@ Submit a PR if something is missing!
 - MRMCD2019 - Dennis Mantz and Jiska Classen - Playing with Bluetooth [Video](https://www.youtube.com/watch?v=uwkR8bcni38)
 - BruCON 0x0B - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG for fun and jamming [Video](https://www.youtube.com/watch?v=rtaSCqngvqU)  
 - Hack.LU 2019 - Damien Cauquil - Defeating Bluetooth Low Energy 5 PRNG For Fun And Jamming [Video](https://www.youtube.com/watch?v=4TaimqlQCew)  
+- CyberCamp19 - Pablo González - Audit and hacking to Bluetooth Low-Energy (BLE) devices [Video](https://www.youtube.com/watch?v=v4YxIlNyiSI)
 
 ### 2020
 
 - Hardwear.io Virtual Con 2020 - Daniele Antonioli - From Bluetooth Standard to Standard Compliant 0-days [Video](https://www.youtube.com/watch?v=ZVSbF11uxuk)  
 - DEF CON 28 - Jiska Classen and Francesco Gringoli - Spectra — New Wireless Escalation Targets  [Video](https://www.youtube.com/watch?v=GZd66uVGKn8)
+- DEF CON 28 - Maxine Filcher - The Basics Of Breaking BLE v3 [Video](https://www.youtube.com/watch?v=X2ARyfjzxhY)
 - USENIX WOOT 2020 - Jianliang Wu - BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8)
+- Ekoparty 2020 - Cecilia Pastorino and Dan Borgogno - Bluetooth Low Energy Hacking 101 [Video](https://www.youtube.com/watch?v=2sirVrJpI30)
 
 ------
 
@@ -145,6 +148,7 @@ Submit a PR if something is missing!
 - Bettercap [Github](https://github.com/bettercap/bettercap)
 - sparrow-wifi [Github](https://github.com/ghostop14/sparrow-wifi)
 - bluelog [Github](https://github.com/MS3FGX/Bluelog)
+- btsniffer [Github](https://github.com/bsnet/btsniffer)
 - Blue Hydra [Github](https://github.com/pwnieexpress/blue_hydra)
 - btlesniffer [Github](https://github.com/scipag/btle-sniffer)
 - btscanner [Link](https://manpages.ubuntu.com/manpages/bionic/man1/btscanner.1.html)
