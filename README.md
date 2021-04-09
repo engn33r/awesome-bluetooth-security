@@ -39,7 +39,7 @@ Submit a PR if something is missing!
 | Spectra | Black Hat USA 2020 | [Abstract](https://www.blackhat.com/us-20/briefings/schedule/index.html#spectra-breaking-separation-between-wireless-chips-20005) | TBD | [Video](https://www.youtube.com/watch?v=GZd66uVGKn8) | No Notice | WiFi+BT modules | CVE-2019-15063, CVE-2020-10367, CVE-2020-10368, CVE-2020-10369, CVE-2020-10370 |
 | BLURtooth | 2020 | No site | No Paper | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/) | BR/EDR+LE | CVE-2020-15802 |
 | BLESA | WOOT 2020 | [Site](https://www.usenix.org/conference/woot20/presentation/wu) | [Paper](https://www.usenix.org/system/files/woot20-paper-wu-updated.pdf) | [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8) | No Notice | LE | CVE-2020-9770 |
-| BleedingTooth | N/A | [Site](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00435.html) | N/A | N/A | No Notice | Linux | CVE-2020-12351, CVE-2020-12352, CVE-2020-24490 |
+| BleedingTooth | 2020 | [Site](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00435.html) | [Writeup](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup) | [Video](https://www.youtube.com/watch?v=qPYrLRausSw) | No Notice | Linux | CVE-2020-12351, CVE-2020-12352, CVE-2020-24490 |
 
 ------
 
