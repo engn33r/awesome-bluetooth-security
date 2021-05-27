@@ -40,6 +40,7 @@ Submit a PR if something is missing!
 | BLURtooth | 2020 | No site | No Paper | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/blurtooth/) | BR/EDR+LE | CVE-2020-15802 |
 | BLESA | WOOT 2020 | [Site](https://www.usenix.org/conference/woot20/presentation/wu) | [Paper](https://www.usenix.org/system/files/woot20-paper-wu-updated.pdf) | [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8) | No Notice | LE | CVE-2020-9770 |
 | BleedingTooth | 2020 | [Site](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00435.html) | [Writeup](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup) | [Video](https://www.youtube.com/watch?v=qPYrLRausSw) | No Notice | Linux | CVE-2020-12351, CVE-2020-12352, CVE-2020-24490 |
+| BlueMirror | WOOT 2021 | [Site](https://kb.cert.org/vuls/id/799380) | Coming soon | Coming soon | [Multiple SIG Notices](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/reporting-security/) | BR/EDR/LE/Mesh | CVE-2020-26555, CVE-2020-26556, CVE-2020-26557, CVE-2020-26558, CVE-2020-26559, CVE-2020-26560 |
 
 ------
 
