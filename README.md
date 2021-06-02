@@ -133,9 +133,15 @@ Submit a PR if something is missing!
 - DEF CON 28 - Jiska Classen and Francesco Gringoli - Spectra — New Wireless Escalation Targets  [Video](https://www.youtube.com/watch?v=GZd66uVGKn8)
 - DEF CON 28 - Maxine Filcher - The Basics Of Breaking BLE v3 [Video](https://www.youtube.com/watch?v=X2ARyfjzxhY)
 - USENIX WOOT 2020 - Jianliang Wu - BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8)
+- USENIX WOOT 2020 - Dennis Heinze, Jiska Classen, Matthias Hollick - ToothPicker: Apple Picking in the iOS Bluetooth Stack [Video](https://www.youtube.com/watch?v=hwJX1F11peU)
 - USENIX 2020 - Yue Zhang - Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks [Video](https://www.youtube.com/watch?v=vcv6agrH4J8)
 - Ekoparty 2020 - Cecilia Pastorino and Dan Borgogno - Bluetooth Low Energy Hacking 101 [Video](https://www.youtube.com/watch?v=2sirVrJpI30)
-- rC3 2020 - Exposure Notification Security [Video](https://www.youtube.com/watch?v=w9yuTZzsP_w)
+- rC3 2020 - Jiska Classen - Exposure Notification Security [Video](https://www.youtube.com/watch?v=w9yuTZzsP_w)
+
+### 2021
+
+- CCC #DiVOC2020 - Jiska Classen - Finding Eastereggs in Broadcom's Bluetooth Random Number Generator [Video](https://www.youtube.com/watch?v=cxlxc4Yc3tQ)
+- CCC #DiVOC2020 - Jan Ruge - No PoC? No Fix! - A sad Story about Bluetooth Security [Video](https://www.youtube.com/watch?v=7tIQjPjjJQc)
 
 ------
 
