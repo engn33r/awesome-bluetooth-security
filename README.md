@@ -225,7 +225,7 @@ Submit a PR if something is missing!
 ### Hardware
 
 - Nordic Semiconductor nRF-51 Development Kit [Link](https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF51-DK)
-- Sena UD-100 (~$39) [Link](www.senanetworks.com/ud100-g03.html)
+- Sena UD-100 (~$39) [Link](http://www.senanetworks.com/ud100-g03.html)
 - Ubertooth One (~$120) [Link](https://greatscottgadgets.com/ubertoothone/)
 - Ellisys Bluetooth Tools [Link](https://www.ellisys.com/products/btcompare.php)
 - Frontline Bluetooth Tools [Link](http://www.fte.com/products/default.aspx)
