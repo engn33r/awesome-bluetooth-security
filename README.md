@@ -216,6 +216,10 @@ Submit a PR if something is missing!
 - blue_sonar [Github](https://github.com/ZeroChaos-/blue_sonar)
 - BlueRanger [Gitlab](https://gitlab.com/kalilinux/packages/blueranger)
 
+### Denial of Service
+
+- Blue Deauth [Github](https://github.com/its0x08/blue-deauth)
+
 ### Honeypot
 
 - bluepot [Github](https://github.com/andrewmichaelsmith/bluepot/)
