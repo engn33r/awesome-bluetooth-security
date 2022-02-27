@@ -52,17 +52,23 @@ Submit a PR if something is missing!
 
 - DEF CON 11 - Bruce Potter - Bluetooth - The Future of Wardriving [Video](https://www.youtube.com/watch?v=T-8m0jBdLF0)
 
+### 2004
+
+- 21C3 - Marcel Holtmann, Martin Herfurt, Adam Laurie - Bluetooth Hacking [Video](https://media.ccc.de/v/066_Bluetooth_Hacking)
+- Black Hat USA 2004 - Adam Laurie, Martin Herfurt - BlueSnarfing The Risk From Digital Pickpockets [Video](https://www.youtube.com/watch?v=B7GOxh-DLlw)
+
 ### 2005
 
-- 22C3 - Marcel Holtmann, Martin Herfurt, Adam Laurie: Bluetooth Hacking - The State of The Art [Video](https://www.youtube.com/watch?v=ynjZOIu_HqQ)
+- 22C3 - Marcel Holtmann, Martin Herfurt, Adam Laurie - Bluetooth Hacking - The State of The Art [Video](https://media.ccc.de/v/22C3-536-en-bluetooth_hacking)
 
 ### 2006
 
-- 23C3 - Thierry Zoller, Kevin Finistere: Bluetooth Hacking Revisited [Video](https://www.youtube.com/watch?v=DLMsLIZp5ww)
+- 23C3 - Thierry Zoller, Kevin Finistere - Bluetooth Hacking Revisited [Video](https://media.ccc.de/v/23C3-1733-en-bluetooth_hacking_revisited)
+- Black Hat USA 2006 - Bruce Potter - Bluetooth Defense Kit Black Hat [Video](https://www.youtube.com/watch?v=fsahDgOjv_I)
 
 ### 2007
 
-- DeepSec 2007 - Marcel Holtmann: New Security Model of Bluetooth 2.1 [Video](https://www.youtube.com/watch?v=jXtDhQTqhKg)
+- DeepSec 2007 - Marcel Holtmann - New Security Model of Bluetooth 2.1 [Video](https://www.youtube.com/watch?v=jXtDhQTqhKg)
 
 ### 2009
 
@@ -76,25 +82,25 @@ Submit a PR if something is missing!
 
 ### 2011
 
-- ShmooCon 2011: Project Ubertooth: Building a Better Bluetooth Adapter [Video](https://www.youtube.com/watch?v=KSd_1FE6z4Y)  
+- ShmooCon 2011 - Project Ubertooth: Building a Better Bluetooth Adapter [Video](https://www.youtube.com/watch?v=KSd_1FE6z4Y)  
 - DeepSec 2011 - Tommi Makila & Jukka Taimisto: Intelligent Bluetooth Fuzzing - Why bother? [Video](https://www.youtube.com/watch?v=Rvzrr_jfH64)
 
 ### 2012
 
-- Ruxcon 2012: Bluetooth Packet Sniffing Using Project Ubertooth - Dominic Spill [Video](https://www.youtube.com/watch?v=HU5qi7wimAM)
+- Ruxcon 2012 - Dominic Spill - Bluetooth Packet Sniffing Using Project Ubertooth [Video](https://www.youtube.com/watch?v=HU5qi7wimAM)
 - Toorcon 2012 - Hacking Bluetooth Low Energy: I Am Jack's Heart Monitor [Video](https://www.youtube.com/watch?v=4POOiVrdnX8)
-- DEF CON 20: Passive Bluetooth Monitoring in Scapy [Video](https://www.youtube.com/watch?v=FruyviVhvR8)
+- DEF CON 20 - Passive Bluetooth Monitoring in Scapy [Video](https://www.youtube.com/watch?v=FruyviVhvR8)
 
 ### 2013
 
 - USENIX WOOT 2013 - Mike Ryan - Bluetooth: With Low Energy Comes Low Security [Video](https://www.youtube.com/watch?v=Mo-FsEmaqpo)  
 - ShmooCon 9 - How Smart Is Bluetooth Smart? [Video](https://www.youtube.com/watch?v=0FfvLxW_cZg)  
-- Blackhat USA 2013 - Bluetooth Smart: The Good, the Bad, the Ugly, and the Fix! [Video](https://www.youtube.com/watch?v=SoH11fi-FcA)  
+- Black Hat USA 2013 - Bluetooth Smart: The Good, the Bad, the Ugly, and the Fix! [Video](https://www.youtube.com/watch?v=SoH11fi-FcA)  
 - DeepSec 2013 - Veronica Valeros & Sebastian Garcia: Uncovering your Trails - Privacy Issues of Bluetooth Devices [Video](https://www.youtube.com/watch?v=j3fWjpxZFQE)
 
 ### 2014
 
-- CanSecWest 2014: Outsmarting Bluetooth Smart [Video](https://www.youtube.com/watch?v=dYj6bpDzID0)  
+- CanSecWest 2014 - Outsmarting Bluetooth Smart [Video](https://www.youtube.com/watch?v=dYj6bpDzID0)  
 - DEF CON 22 - The NSA Playset Bluetooth Smart Attack Tools [Video](https://www.youtube.com/watch?v=_Z4gYyrKVFM)  
 - DEF CON 22 - Grant Bugher - Detecting Bluetooth Surveillance Systems [Video](https://www.youtube.com/watch?v=85uwy0ACJJw)  
 
@@ -107,15 +113,20 @@ Submit a PR if something is missing!
 - DEF CON 24 - Anthony Rose, Ben Ramsey - Picking Bluetooth Low Energy Locks a Quarter Mile Away [Video](https://www.youtube.com/watch?v=KrOReHwjCKI)  
 - DEF CON 24 - Realtime Bluetooth Device Detection with Blue Hydra [Video](https://www.youtube.com/watch?v=p5AnZHY7g1M)  
 - DEF CON 24 Internet of Things Village Damien Cauquil Btlejuice The Bluetooth Smart Mitm Framework [Video](https://www.youtube.com/watch?v=lcn07TclnS0)  
-- Blackhat USA 2016 - Gattacking Bluetooth Smart Devices - Introducing a New BLE Proxy Tool [Video](https://www.youtube.com/watch?v=uKqdb4lF0XU)  
+- Black Hat USA 2016 - Gattacking Bluetooth Smart Devices - Introducing a New BLE Proxy Tool [Video](https://www.youtube.com/watch?v=uKqdb4lF0XU)  
 - Hack.lu 2016 - Damiel Cauquil - BtleJuice: the Bluetooth Smart Man In The Middle Framework [Video](https://www.youtube.com/watch?v=G08fh5Sa7TU)  
 - EMF16 - Michael Ossmann - My Ubertooth Year [Video](https://www.youtube.com/watch?v=8lGCKO13zuo)  
+
+### 2017
+
+- Black Hat Europe 2017 - Ben Seri, Gregory Vishnepolsky - BlueBorne - A New Class of Airborne Attacks [Video](https://www.youtube.com/watch?v=WWQTlogqF1I)
 
 ### 2018
 
 - DEF CON 26 - Damien Cauquil - You had better secure your BLE devices [Video](https://www.youtube.com/watch?v=VHJfd9h6G2s)  
 - 35C3 - Dennis Mantz and Jiska Classen - Dissecting Broadcom Bluetooth [Video](https://www.youtube.com/watch?v=4_nI9ok7iQg)  
 - MRMCD2018 - Dennis Mantz and Jiska Classen - A Deep Dive into Bluetooth Controller Firmware [Video](https://www.youtube.com/watch?v=iYPPOMQOev0)
+- Black Hat Europe 2018 - Ben Seri, Dor Zusman - BLEEDINGBIT Your APs Belong to Us [Video](https://www.youtube.com/watch?v=ZI-E37e6UHA)
 
 ### 2019
 
@@ -137,6 +148,7 @@ Submit a PR if something is missing!
 - USENIX WOOT 2020 - Jianliang Wu - BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy [Video](https://www.youtube.com/watch?v=wIWZaSZsRc8)
 - USENIX WOOT 2020 - Dennis Heinze, Jiska Classen, Matthias Hollick - ToothPicker: Apple Picking in the iOS Bluetooth Stack [Video](https://www.youtube.com/watch?v=hwJX1F11peU)
 - USENIX 2020 - Yue Zhang - Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks [Video](https://www.youtube.com/watch?v=vcv6agrH4J8)
+- Black Hat Europe 2020 - Wang Yu - Please Make a Dentist Appointment ASAP: Attacking IOBluetoothFamily HCI and Vendor-Specific Commands [Video](https://www.youtube.com/watch?v=KIcsci60So4)
 - Ekoparty 2020 - Cecilia Pastorino and Dan Borgogno - Bluetooth Low Energy Hacking 101 [Video](https://www.youtube.com/watch?v=2sirVrJpI30)
 - rC3 2020 - Jiska Classen - Exposure Notification Security [Video](https://www.youtube.com/watch?v=w9yuTZzsP_w)
 
@@ -144,6 +156,8 @@ Submit a PR if something is missing!
 
 - CCC #DiVOC2020 - Jiska Classen - Finding Eastereggs in Broadcom's Bluetooth Random Number Generator [Video](https://www.youtube.com/watch?v=cxlxc4Yc3tQ)
 - CCC #DiVOC2020 - Jan Ruge - No PoC? No Fix! - A sad Story about Bluetooth Security [Video](https://www.youtube.com/watch?v=7tIQjPjjJQc)
+- WOOT2021 - Tristan Claverie, José Lopes Esteves - BlueMirror: Reflections on Bluetooth Pairing and Provisioning Protocols [Video](https://www.youtube.com/watch?v=Ai5-IrCI3kg)
+- Hardwear.io NL 2021 - Tristan Claverie, José Lopes Esteves - BlueMirror: Defeating Authentication In Bluetooth Protocols [Video](https://www.youtube.com/watch?v=ej8Rnu5hK5c)
 
 ------
 
