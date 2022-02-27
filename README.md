@@ -188,7 +188,7 @@ Submit a PR if something is missing!
 - nOBEX [Github](https://github.com/nccgroup/nOBEX)
 
 ### Fuzzing
-- Blue Deauth [Github](https://github.com/its0x08/blue-deauth)
+
 - Toothpicker [Github](https://github.com/seemoo-lab/toothpicker)
 - bss (unsupported) [Github](https://github.com/hllhll/BluetoothStackSmasher)
 - Defensics (Commercial) [Link](https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html)
@@ -215,6 +215,10 @@ Submit a PR if something is missing!
 
 - blue_sonar [Github](https://github.com/ZeroChaos-/blue_sonar)
 - BlueRanger [Gitlab](https://gitlab.com/kalilinux/packages/blueranger)
+
+### Denial of Service
+
+- Blue Deauth [Github](https://github.com/its0x08/blue-deauth)
 
 ### Honeypot
 
