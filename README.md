@@ -30,7 +30,7 @@ Submit a PR if something is missing!
 | :---- | :---------- | :------------------------------- | :----------- | :------ | :------ | :------ | :----------- |
 | BlueBorne | Black Hat Europe 2017 | [Site](https://www.armis.com/blueborne/) | [Paper](https://info.armis.com/rs/645-PDC-047/images/BlueBorne%20Technical%20White%20Paper_20171130.pdf) | [Video](https://www.youtube.com/watch?v=LLNtZKpL0P8) | No Notice | BR/EDR | CVE-2017-8628, CVE-2017-0781, CVE-2017-0782, CVE-2017-0783, CVE-2017-0785, CVE-2017-14315, CVE-2017-1000250, CVE-2017-1000251, CVE-2017-14315, CVE-2017-1000410 |
 | Bleedingbit | 2018 | [Site](https://www.armis.com/bleedingbit/) | [Paper](https://info.armis.com/rs/645-PDC-047/images/Armis-BLEEDINGBIT-Technical-White-Paper-WP.pdf) | [Video](https://www.youtube.com/watch?v=pZpAUapKvGY) | No Notice | LE | CVE-2018-7080, CVE-2018-16986 |
-| Fixed Coordinate Invalid Curve Attack | 2018 | [Site](https://www.cs.technion.ac.il/~biham/BT/) | [Paper](https://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf) | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/bluetooth-sig-security-update/) | BR/EDR/LE | CVE-2018-5383 |
+| Fixed Coordinate Invalid Curve Attack | 2018 | [Site](https://web.archive.org/web/20210226020244/https://www.cs.technion.ac.il/~biham/BT/) | [Paper](https://eprint.iacr.org/2019/1043) | [Video](https://www.youtube.com/watch?v=5x6GaqO24Fg) | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/bluetooth-sig-security-update/) | BR/EDR/LE | CVE-2018-5383 |
 | SweynTooth | 2019 | [Site](https://asset-group.github.io/disclosures/sweyntooth/) | [Paper](https://asset-group.github.io/disclosures/sweyntooth/sweyntooth.pdf) | [Video](https://www.youtube.com/watch?v=Iw8sIBLWE_w) | No Notice | LE | CVE-2019-16336, CVE-2019-17060, CVE-2019-17061, CVE-2019-17517, CVE-2019-17518, CVE-2019-17519, CVE-2019-17520, CVE-2019-19192, CVE-2019-19193, CVE-2019-19194, CVE-2019-19195, CVE-2019-19196, CVE-2020-10061, CVE-2020-10069, CVE-2020-13593, CVE-2020-13594, CVE-2020-13595 |
 | KNOB | USENIX 2019 | [Site](https://knobattack.com/)   | [Paper](https://www.usenix.org/system/files/sec19-antonioli.pdf) | [Video](https://www.youtube.com/watch?v=v9Xg9XcnNh0) | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/reporting-security/statement-key-negotiation-of-bluetooth/) | BR/EDR  |  CVE-2019-9506 |
 | BIAS | IEEE S&P 2020 | [Site](https://francozappa.github.io/about-bias/) | [Paper](https://francozappa.github.io/about-bias/publication/antonioli-20-bias/antonioli-20-bias.pdf) | [Video](https://www.youtube.com/watch?v=fASGU7Og5_4) | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-security/bias-vulnerability/) | BR/EDR | CVE-2020-10135 |
@@ -179,7 +179,7 @@ Submit a PR if something is missing!
 - btsniffer [Github](https://github.com/bsnet/btsniffer)
 - Blue Hydra [Github](https://github.com/pwnieexpress/blue_hydra)
 - btlesniffer [Github](https://github.com/scipag/btle-sniffer)
-- btscanner [Link](https://manpages.ubuntu.com/manpages/bionic/man1/btscanner.1.html)
+- btscanner [Link](https://manpages.org/btscanner)
 - BT Audit [Link](https://trifinite.org/trifinite_stuff_btaudit.html)
 - redfang [Gitlab](https://gitlab.com/kalilinux/packages/redfang)
 - bleah (deprecated, replaced by Bettercap) [Github](https://github.com/evilsocket/bleah)
