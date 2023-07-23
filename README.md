@@ -43,6 +43,8 @@ Submit a PR if something is missing!
 | BlueMirror | WOOT 2021 | [Site](https://kb.cert.org/vuls/id/799380) | [Paper](https://ieeexplore.ieee.org/abstract/document/9474325) | [Video](https://www.youtube.com/watch?v=Ai5-IrCI3kg) | [Multiple SIG Notices](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/reporting-security/) | BR/EDR/LE/Mesh | CVE-2020-26555, CVE-2020-26556, CVE-2020-26557, CVE-2020-26558, CVE-2020-26559, CVE-2020-26560 |
 | InjectaBLE | IEEE DSN 2021 | [Site](https://github.com/RCayre/injectable-firmware) | [Paper](https://archivesic.ccsd.cnrs.fr/LAAS-TSF/hal-03193297v2) | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/injectable/) | LE | CVE-2021-31615 |
 | BrakTooth | 2021 | [Site](https://asset-group.github.io/disclosures/braktooth/) | [Paper](https://asset-group.github.io/disclosures/braktooth/braktooth.pdf) | [Video](https://www.youtube.com/watch?v=F7VjuOiUsNk) | No Notice | BR/EDR | CVE-2021-28135, CVE-2021-28136, CVE-2021-28139, CVE-2021-28155, CVE-2021-31717, CVE-2021-31609, CVE-2021-31611, CVE-2021-31612, CVE-2021-31613, CVE-2021-31785, CVE-2021-31786, CVE-2021-31610, CVE-2021-34143, CVE-2021-34144, CVE-2021-34145, CVE-2021-34146, CVE-2021-34147, CVE-2021-34148, CVE-2021-34149, CVE-2021-34150 |
+| Pairing Mode Confusion | 2022 | No Site | No Paper | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/confusion-in-ble-passkey/) | LE | CVE-2022-25836 |
+| Pairing Mode Confusion | 2022 | No Site | No Paper | No Video | [SIG Notice](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/confusion-in-br-edr/) | BR/EDR | CVE-2022-25837 |
 
 ------
 
