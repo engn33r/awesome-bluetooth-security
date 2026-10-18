@@ -243,6 +243,7 @@ Submit a PR if something is missing!
 ### Android Apps
 
 - nRF Connect for Mobile [Google Play](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
+- RF Sentinel, passive BLE scanner that flags trackers following you, body cameras and other surveillance devices [Github](https://github.com/CIS-C0/RFSentinel)
 
 ### Hardware
 
